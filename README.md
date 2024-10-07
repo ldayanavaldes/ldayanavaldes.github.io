@@ -1,45 +1,5 @@
 # 👨‍💻 Portfolio
 
-Welcome to my portfolio! This repository showcases my skills, projects, and experiences as a software developer. Here, you can explore the technologies I work with, review my notable projects, and learn about my professional background.
-
-## 📚 Contents
-
-- [Technologies](#technologies): Overview of programming languages, frameworks, and tools I use.
-- [Projects](#projects): A collection of my notable projects with descriptions and links.
-- [Experience](#experience): Details of my professional roles and responsibilities.
-- [Skills](#skills): Summary of my technical skills and expertise.
-
-## 🛠️ Technologies
-
-- **C#**: Advanced expertise in development and backend solutions, specializing in Microsoft technologies.
-- **Java**: Advanced skills in development, backend services, and cross-platform applications.
-- **Ruby**: Intermediate experience in web development, backend solutions, and dynamic programming.
-- **JavaScript**: Mastery in web development, including frontend, backend, and full-stack solutions.
-- **TypeScript**: Advanced proficiency in web development with a strong understanding of JavaScript superset.
-- **Node.js**: Advanced skills in backend services and server-side JavaScript.
-- **Angular**: Intermediate experience in frontend development using JavaScript frameworks.
-- **Databases**: Advanced knowledge in SQL Server and Cosmos DB; intermediate skills in MySQL, PostgreSQL, and Oracle.
-
-## 🚀 Projects
-
-Explore my projects to see practical applications of my skills. Each project includes a description, technologies used, and links to source code or live demos. 
-
-## 🌟 Experience
-
-I have held various roles that allowed me to develop and refine my skills. My experience includes:
-
-- **Role 1**: Senior .Net Developer.
-- **Role 2**: Technical Lead.
-- **Role 3**: Software developer.
-
-## 💡 Skills
-
-My skill set includes a range of programming languages, frameworks, and tools essential for modern software development. I am continuously learning and adapting to new technologies to stay current in the field.
-
----
-
-Thank you for visiting my portfolio!
-
 ## 🛠️ Stack
 
 - [**Astro**](https://astro.build/) - The next-generation web framework.
