@@ -1,0 +1,170 @@
+{
+  "basics": {
+    "name": "Leidy Dayana Valdés Parra",
+    "label": "Administración de Empresas | Especialista en Procesos de Calidad e Innovación",
+    "image": "https://avatars.githubusercontent.com/u/33662288?v=4",
+    "email": "leidydayanavaldesparra@gmail.com",
+    "phone": "+57 3016632453",
+    "url": "https://ldayanavaldes.github.io",
+    "summary": "Administradora de Empresas y Especialista en procesos de Calidad e Innovación con más de 7 años de experiencia laboral en empresas de servicios del sector privado. Durante mi trayectoria me he enfocado en áreas administrativas, en procesos como Datos Maestros, gestión documental, validación de asociados de negocio etc., lo que me ha permitido tener una experiencia en el control y actualización de todo el proceso de documentación y datos, identificando oportunidades de mejora aplicando metodologías agiles que contribuyen a la optimización de los procesos, por otra parte me encanta aprender, realizar cursos, hacer ejercicio y compartir conocimiento.",
+    "location": {
+      "address": "",
+      "postalCode": "76003",
+      "city": "Cali",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ldayanavaldes",
+        "url": "https://github.com/ldayanavaldes/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ldayanavaldes",
+        "url": "https://www.linkedin.com/in/ldayanavaldes/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Abbott Laboratories - Lafrancol S.A.S",
+      "position": "Analista de Datos Maestros",
+      "url": "https://www.latam.abbott/",
+      "startDate": "2023-03-15",
+      "endDate": null,
+      "summary": "Recopilar, analizar y garantizar la exactitud de los datos maestros, incluyendo la creación y modificación de registros de clientes/proveedores, así como su monitoreo continuo. Brindar soporte en auditorías internas y externas, asegurando una gestión adecuada y segura de la información. Validar y cargar datos maestros utilizando herramientas SAP, identificando y resolviendo errores, duplicidades y discrepancias para asegurar la calidad de los datos. Mantener actualizados los registros en tiempo real y desarrollar documentación sobre los procesos relacionados con la gestión de los datos maestros.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Abbott Laboratories - Lafrancol S.A.S",
+      "position": "Auxiliar de Documentación",
+      "url": "https://www.latam.abbott/",
+      "startDate": "2021-08-15",
+      "endDate": "2023-04-15",
+      "summary": "Brindar soporte integral en la creación, actualización y gestión de la documentación relacionada con las actividades de la compañía, utilizando herramientas documentales para generar informes y registrar procesos operativos. Gestionar el seguimiento de la documentación vencida o por vencer, asegurando que se tomen las acciones necesarias para mantenerla actualizada y en cumplimiento con los requisitos establecidos. Documentar y actualizar todas las actividades vinculadas a la gestión de los procesos del área, garantizando la continuidad operativa y el cumplimiento normativo.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Softpymes S.A.S",
+      "position": "Auxiliar de Mercadeo",
+      "url": "https://www.softpymes.com.co/",
+      "startDate": "2016-03-15",
+      "endDate": "2019-11-15",
+      "summary": "Apoyar la fuerza de ventas a través del Email Marketing, generando citas con nuevos prospectos, leads y clientes actuales, incentivando la venta de productos como Facturación Electrónica y software contable. Brindar apoyo logístico en eventos organizados por el área, además de gestionar la atención a PQRS y proporcionar un servicio al cliente eficiente y de calidad.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad EAN",
+      "url": "https://www.universidadean.edu.co/",
+      "area": "Especialización en procesos de Calidad e InnovaciónEspecialización en procesos de Calidad e Innovación",
+      "studyType": "Especialización",
+      "startDate": "2023-03-15",
+      "endDate": "2024-09-15",
+      "score": "4.8",
+      "courses": []
+    },
+    {
+      "institution": "Pontificia Universidad Javeriana",
+      "url": "https://www.javerianacali.edu.co/",
+      "area": "Diplomado online en gestión de la experiencia del cliente",
+      "studyType": "Diplomado",
+      "startDate": "2021-01-15",
+      "endDate": "2021-04-15",
+      "score": "4.8",
+      "courses": []
+    },
+    {
+      "institution": "Corporación Universitaria Autónoma de Nariño",
+      "url": "https://www.aunar.edu.co/",
+      "area": "Administración y gestión de empresas",
+      "studyType": "Administración",
+      "startDate": "2014-01-15",
+      "endDate": "2018-12-15",
+      "score": "4.8",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Planificar su crecimiento como líder",
+      "startDate": "2024-07-15",
+      "endDate": null,
+      "issuer": "Skillsoft",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/448b2577-8577-4877-9b72-6dc25f18d6d7"
+    },
+    {
+      "name": "Curso Estructura Financiera para Emprendedores",
+      "startDate": "2024-03-06",
+      "endDate": null,
+      "issuer": "Certika",
+      "url": "https://app.certika.co/certificate/ODE4NjM"
+    },
+    {
+      "name": "Curso Sostenibilidad y Emprendimiento Sostenible",
+      "startDate": "2024-02-07",
+      "endDate": null,
+      "issuer": "Certika",
+      "url": "https://app.certika.co/certificate/ODAxMzI"
+    },
+    {
+      "name": "Scrum Foundation Professional Certification - SFPC",
+      "startDate": "2023-03-15",
+      "endDate": null,
+      "issuer": "CertiProf",
+      "url": "https://certiprof.com/"
+    },
+    {
+      "name": "Curso de Excel Avanzado",
+      "startDate": "2020-08-15",
+      "endDate": null,
+      "issuer": "Universidad del Valle",
+      "url": "https://www.univalle.edu.co/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "Advanced",
+      "keywords": [
+        "Word",
+        "PowerPoint",
+        "Outlook",
+        "Office Suite",
+        "Documentation"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Advanced",
+      "keywords": [
+        "Formulas",
+        "Pivot Tables",
+        "Macros",
+        "VBA",
+        "Data Analysis",
+        "Automation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": []
+}
